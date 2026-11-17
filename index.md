@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="fcChD4BDQH01IvAv3uD1SM4-FRCHZKNx5bmYvNiAJdg" />
 # NestedTable Manager for Google Sheets
 
 **NestedTable Manager** is a Google Sheets Editor Add-on that lets you view, edit, and synchronize parent-child relational tables inside a split-grid dialog interface.
